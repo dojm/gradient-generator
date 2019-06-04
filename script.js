@@ -18,5 +18,3 @@ function copyToClipboard() {
   output.select();
   document.execCommand("copy");
 }
-
-feather.replace();
